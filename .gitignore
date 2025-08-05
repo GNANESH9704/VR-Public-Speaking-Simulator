@@ -1,0 +1,30 @@
+# =============== Unity Generated Files ===============
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# =============== Rider and VS Code ===============
+.idea/
+.vscode/
+*.sln
+*.csproj
+*.unityproj
+*.sln.iml
+
+# =============== OS ===============
+.DS_Store
+Thumbs.db
+
+# =============== Others ===============
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.user
+*.local
